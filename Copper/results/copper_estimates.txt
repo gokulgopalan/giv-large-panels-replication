@@ -1,0 +1,6 @@
+Copper GIV estimates
+r=1 lag=1 se=hac T=191 N=29 k(X)=4
+phi_agg=-0.147760 phi_disagg=0.140884
+AGG  se_naive=0.051127 se_corrected=0.051329
+DIS  se_naive=0.047704 se_corrected=0.058047
+OLS  agg: phi=-0.052745 se=0.022444 | dis: phi=0.024838 se=0.035733

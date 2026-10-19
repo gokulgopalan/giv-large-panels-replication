@@ -1,0 +1,6 @@
+Crude Oil GIV estimates
+r=2 lag=2 se=hac T=609 N=21 k(X)=3 drop_covid=1
+phi_agg=-0.104537 phi_disagg=0.256259
+AGG  se_naive=0.050283 se_corrected=0.051994
+DIS  se_naive=0.134700 se_corrected=0.132952
+OLS  agg: phi=0.004051 se=0.003302 | dis: phi=0.017329 se=0.008098

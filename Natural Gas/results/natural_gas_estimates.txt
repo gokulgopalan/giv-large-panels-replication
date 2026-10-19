@@ -1,0 +1,6 @@
+Natural Gas GIV estimates
+r=9 lag=1 se=hac T=178 N=27 k(X)=5 drop_covid=0
+phi_agg=-0.056211 phi_disagg=0.150365
+AGG  se_naive=0.040711 se_corrected=0.046058
+DIS  se_naive=0.101918 se_corrected=0.081637
+OLS  agg: phi=0.002169 se=0.003234 | dis: phi=0.008819 se=0.014020
